@@ -29,7 +29,7 @@ Recently graduated from BrainStation, working on building SpendSmart, a budget t
 
 
 ### 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/shipa-neupane/)
+- [LinkedIn](https://www.linkedin.com/in/shipaneupane/)
 
 
 ### 😄 Fun Facts
