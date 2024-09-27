@@ -4,7 +4,6 @@ Recently graduated from BrainStation, working on building SpendSmart, a budget t
 
 
 ### 🛠️ Technologies & Tools
-### 🛠️ Key Skills
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
 ![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=sass)
@@ -33,12 +32,12 @@ Recently graduated from BrainStation, working on building SpendSmart, a budget t
 - [LinkedIn](https://www.linkedin.com/in/shipa-neupane/)
 
 
-⚡ Fun facts: ...
-![Coffee](https://img.shields.io/badge/Made_with-Love_and_Coffee-black?style=flat-square&logo=coffee)
-- ☕ Coffee lover
-- 🧘‍♀️ Enjoys meditation and yoga
-- 🍕 Food enthusiast
-- ✈️ Loves traveling
+### 😄 Fun Facts
+- ☕ Coffee lover ![Coffee](https://img.shields.io/badge/-black?style=flat-square&logo=coffee)
+- 🧘‍♀️ Enjoys meditation and yoga ![Yoga](https://img.shields.io/badge/-black?style=flat-square&logo=yoga)
+- ✈️ Loves traveling ![Travel](https://img.shields.io/badge/-black?style=flat-square&logo=airplane)
+- 🍕 Food enthusiast ![Food](https://img.shields.io/badge/-black?style=flat-square&logo=burger)
+- 🎶 Passionate about music ![Music](https://img.shields.io/badge/-black?style=flat-square&logo=music)
 
 
 
