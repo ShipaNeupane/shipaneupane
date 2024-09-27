@@ -33,11 +33,11 @@ Recently graduated from BrainStation, working on building SpendSmart, a budget t
 
 
 ### 😄 Fun Facts
-- ☕ Coffee lover ![Coffee](https://img.shields.io/badge/-black?style=flat-square&logo=coffee)
-- 🧘‍♀️ Enjoys meditation and yoga ![Yoga](https://img.shields.io/badge/-black?style=flat-square&logo=yoga)
-- ✈️ Loves traveling ![Travel](https://img.shields.io/badge/-black?style=flat-square&logo=airplane)
-- 🍕 Food enthusiast ![Food](https://img.shields.io/badge/-black?style=flat-square&logo=burger)
-- 🎶 Passionate about music ![Music](https://img.shields.io/badge/-black?style=flat-square&logo=music)
+- ☕ Coffee lover
+- 🧘‍♀️ Enjoys meditation and yoga
+- ✈️ Loves traveling
+- 🍕 Food enthusiast
+- 🎶 Passionate about music
 
 
 
