@@ -21,7 +21,7 @@ Recently graduated from BrainStation, working on building SpendSmart, a budget t
 ### 🤝 Contributions
 - Contributed to **[InStock-API](https://github.com/ShipaNeupane/instock-everglades-api)**, backend for the Instock application.
 - Contributed to **[Instock](https://github.com/meinna/instock-everglades)**, frontend for the Instock application.
-- Contributed to **[InStock-API](https://github.com/KirkFord/Brainstation-Industry-Hackathon)**, Industry Project Hackathon - Winners.
+- Contributed to **[Telus - Industry Project Hackathon](https://github.com/KirkFord/Brainstation-Industry-Hackathon)**, Industry Project Hackathon - Winners.
 
 
 ### 🌱 What I'm Learning
